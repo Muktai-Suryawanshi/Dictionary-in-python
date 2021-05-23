@@ -5,3 +5,5 @@ Dictionary - Create, add items, length, remove arbitary elements, type, update, 
 
 ![Capture](https://user-images.githubusercontent.com/82524305/119272482-bb77cd00-bc23-11eb-9fd7-3204991a15e1.PNG)
 ![Capture](https://user-images.githubusercontent.com/82524305/119272515-f11cb600-bc23-11eb-9e76-3a031b0c364a.PNG)
+
+![Capture](https://user-images.githubusercontent.com/82524305/119272567-245f4500-bc24-11eb-9ec2-687a3dcfc111.PNG)
