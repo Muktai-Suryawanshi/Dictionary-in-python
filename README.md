@@ -8,3 +8,4 @@ Dictionary - Create, add items, length, remove arbitary elements, type, update, 
 
 ![Capture](https://user-images.githubusercontent.com/82524305/119272567-245f4500-bc24-11eb-9ec2-687a3dcfc111.PNG)
 ![Capture](https://user-images.githubusercontent.com/82524305/119272591-57093d80-bc24-11eb-8ae3-368c95668a5d.PNG)
+![Capture](https://user-images.githubusercontent.com/82524305/119272653-a8193180-bc24-11eb-8075-7b8d220c5554.PNG)
